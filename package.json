@@ -1,0 +1,23 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "This is my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "run-script": "npm run-script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravanjnaidu/MyResume.git"
+  },
+  "author": "Shravan Naidu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shravanjnaidu/MyResume/issues"
+  },
+  "homepage": "https://github.com/shravanjnaidu/MyResume#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
